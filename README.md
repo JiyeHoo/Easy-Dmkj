@@ -1,5 +1,5 @@
 # Easy-Dmkj
-到梦空间第三方客户端，遵循 Material Design 风格，提供定时自动报名等功能
+到梦空间第三方客户端，遵循 Material Design 风格，提供导航至活动地点、定时自动报名等功能
 
 
 # 说明
