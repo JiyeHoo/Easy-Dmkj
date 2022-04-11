@@ -12,4 +12,7 @@
 
 # 其它
 如果你有一些特定的需求，仍然可以使用 Hook 技术对 api 进行调研或者修改。
+
 例如 Xposed 框架，以某第二课堂 App 为例，可以参考我的这篇博客文章：http://blog.jiyehoo.com:81/index.php/archives/310/
+
+仅用于学习
